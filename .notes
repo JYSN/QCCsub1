@@ -7,3 +7,6 @@ Push ("notice me senpai!")
 
 Privacy app "unTraccd"
     - the peace of an untraccd mind (TM)
+
+
+PROMPTFORPOSITIVENUMBER = abs(int(input("?> ")))
